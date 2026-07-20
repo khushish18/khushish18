@@ -1,133 +1,119 @@
-<h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
-<h3 align="center">Software Developer | React Native | AI/ML</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building impactful software, exploring modern mobile development, and continuously learning new technologies.
-</p>
+# Hi, I'm Khushi Sharma 👋
 
-<p align="center">
-  <a href="https://github.com/khushish18">
-    <img src="https://komarev.com/ghpvc/?username=khushish18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+### Software Developer • React Native • AI/ML
 
----
+Passionate about building impactful software, exploring modern mobile development, and continuously learning new technologies.
+
+<img src="https://komarev.com/ghpvc/?username=khushish18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<a href="https://www.linkedin.com/in/khushish18">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:khushisharma061205@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+<br>
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech (IIOT) student at **Vivekananda Institute of Professional Studies – Technical Campus**
-- 📱 Currently building cross-platform mobile applications using **React Native**, **Expo**, and **Supabase**
+- 🎓 B.Tech (IIoT) student at **Vivekananda Institute of Professional Studies – Technical Campus**
+- 📱 Building cross-platform mobile applications with **React Native**, **Expo**, and **Supabase**
 - 🌱 Learning **Node.js**, **MongoDB**, and backend development
-- 🤖 Have a foundation in **Artificial Intelligence & Machine Learning** through academic projects and hackathons
-- 💡 Passionate about solving real-world problems through technology
+- 🤖 Foundation in **AI/ML** through academic projects, internships, and hackathons
+- 🥈 Patent accepted for **SafeOpen**, an intelligent car door safety system
 - 🚀 Always eager to learn, collaborate, and build impactful projects
 
----
+<br>
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+**Languages**
 
-<p>
 <img src="https://skillicons.dev/icons?i=javascript,python,cpp,html,css" />
-</p>
 
-### 📱 Mobile Development
+**Mobile Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+<img src="https://skillicons.dev/icons?i=react" /> &nbsp;`React Native` `Expo` `Supabase`
 
-**React Native • Expo • Supabase**
+**Tools & Platforms**
 
-### 🛠 Tools & Platforms
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
-### 🤖 Familiar With
+**AI / ML**
 
-- Machine Learning Fundamentals
-- Pandas
-- NumPy
-- Scikit-learn
-- Computer Vision Basics
+`Pandas` `NumPy` `Scikit-learn` `Computer Vision Basics`
 
----
+<br>
 
 ## 📌 Current Focus
 
-- 📱 Building mobile applications with **React Native**
-- ⚡ Exploring **Supabase**
-- 🌐 Learning **Backend Development**
-- 🎯 Strengthening problem-solving and development skills
-- 💼 Building projects for my software development portfolio
+- 📱 Building mobile applications with React Native & Expo
+- ⚡ Exploring Supabase for backend-as-a-service
+- 🌐 Learning backend development (Node.js, MongoDB)
+- 🎯 Strengthening problem-solving and DSA fundamentals
+- 💼 Growing my software development portfolio
 
----
+<br>
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
+
+### 🚗 SafeOpen — *Patent Accepted*
+An intelligent vehicle door safety system integrating AI concepts with embedded hardware to improve passenger safety.
+> Source code is private — developed as a hardware project.
 
 ### 🧠 Sahayak
-AI-assisted episodic memory framework designed to support Alzheimer's patients through contextual understanding.
+An edge-AI episodic memory assistant designed to support Alzheimer's patients through contextual understanding.
 
 ### 🌐 JanSetu
-AI-powered public grievance intelligence platform for complaint analysis and prioritization.
+An AI-powered public grievance intelligence platform for complaint analysis and prioritization.
 
-### 🚗 SafeOpen *(Patent Accepted)*
-An intelligent vehicle door safety system integrating AI concepts with embedded hardware to improve passenger safety.
+### 💰 BudgetEagle
+An AI-powered expense tracking and financial coaching app, developed during a DRDO internship.
 
-> Source code is not publicly available as it was developed as a hardware project.
+<br>
 
----
+## 🏅 Achievements
 
-## 🏆 Achievements
+- 🥈 Patent Accepted — **SafeOpen**
+- 🏆 National Finalist — **Hack Vriksh Hackathon 2025**
+- 📜 IBM SkillsBuild — Python 101 for Data Science
 
-- 🥈 Patent Accepted – **SafeOpen**
-- 🏅 National Finalist – **Hack Vriksh Hackathon 2025**
-- 📜 IBM SkillsBuild – Python 101 for Data Science
-
----
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushish18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushish18&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushish18&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushish18&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushish18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushish18&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<br>
 
 ## 🤝 Looking to Collaborate On
 
-- 📱 React Native Projects
-- 🌐 Open Source Software
-- 🚀 Mobile App Development
-- 🤖 Beginner-friendly AI + Software projects
+- 📱 React Native projects
+- 🌐 Open source software
+- 🚀 Mobile app development
+- 🤖 Beginner-friendly AI + software projects
 
----
+<br>
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/khushish18">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/khushish18">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:khushisharma061205@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://github.com/khushish18"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/khushish18"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:khushisharma061205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
-
----
 
 <div align="center">
 
