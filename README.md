@@ -1,122 +1,86 @@
-<div align="center">
-
 # Hi, I'm Khushi Sharma 👋
 
-### Software Developer • React Native • AI/ML
+🎓 B.Tech (IIOT) Student at Vivekananda Institute of Professional Studies – Technical Campus
 
-Passionate about building impactful software, exploring modern mobile development, and continuously learning new technologies.
+💻 Software Developer | React Native | JavaScript | AI/ML Foundation
 
-<img src="https://komarev.com/ghpvc/?username=khushish18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+🚀 Passionate about building real-world mobile applications while continuously exploring modern software development.
 
-<a href="https://www.linkedin.com/in/khushish18">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:khushisharma061205@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+---
 
-</div>
+# Tech Stack
 
-<br>
+## Mobile Development
+React Native • Expo • JavaScript
 
-## 👩‍💻 About Me
+## Frontend
+HTML • CSS • Javascript
 
-- 🎓 B.Tech (IIoT) student at **Vivekananda Institute of Professional Studies – Technical Campus**
-- 📱 Building cross-platform mobile applications with **React Native**, **Expo**, and **Supabase**
-- 🌱 Learning **Node.js**, **MongoDB**, and backend development
-- 🤖 Foundation in **AI/ML** through academic projects, internships, and hackathons
-- 🥈 Patent accepted for **SafeOpen**, an intelligent car door safety system
-- 🚀 Always eager to learn, collaborate, and build impactful projects
+## Backend (Learning)
+Node.js • MongoDB • Supabase
 
-<br>
+## Programming Languages
+Python • C/C++ 
 
-## 🚀 Tech Stack
+## AI/ML Foundation
+Machine Learning Fundamentals • Pandas • NumPy • Scikit-learn
 
-**Languages**
+## Tools
+Git • GitHub • VS Code
 
-<img src="https://skillicons.dev/icons?i=javascript,python,cpp,html,css" />
+---
 
-**Mobile Development**
+# Featured Projects
 
-<img src="https://skillicons.dev/icons?i=react" /> &nbsp;`React Native` `Expo` `Supabase`
+## 🧠 Sahayak
 
-**Tools & Platforms**
+AI-assisted episodic memory framework designed to support Alzheimer's patients through contextual understanding.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+**Tech:** Python • YOLOv8 • FaceNet • CLIP
 
-**AI / ML**
+---
 
-`Pandas` `NumPy` `Scikit-learn` `Computer Vision Basics`
+## 🌐 JanSetu
 
-<br>
+AI-powered public grievance intelligence platform for complaint analysis and prioritization.
 
-## 📌 Current Focus
+**Tech:** Python • NLP • Machine Learning
 
-- 📱 Building mobile applications with React Native & Expo
-- ⚡ Exploring Supabase for backend-as-a-service
-- 🌐 Learning backend development (Node.js, MongoDB)
-- 🎯 Strengthening problem-solving and DSA fundamentals
-- 💼 Growing my software development portfolio
+---
 
-<br>
+## 🚗 SafeOpen *(Patent Accepted)*
 
-## 🏆 Featured Projects
+An intelligent vehicle safety system integrating AI concepts with embedded hardware to improve passenger safety.
 
-### 🚗 SafeOpen — *Patent Accepted*
-An intelligent vehicle door safety system integrating AI concepts with embedded hardware to improve passenger safety.
-> Source code is private — developed as a hardware project.
+- Patent Accepted
+- Hardware + AI Project
+- Source code not publicly available
 
-### 🧠 Sahayak
-An edge-AI episodic memory assistant designed to support Alzheimer's patients through contextual understanding.
+---
 
-### 🌐 JanSetu
-An AI-powered public grievance intelligence platform for complaint analysis and prioritization.
+# Current Focus
 
-### 💰 BudgetEagle
-An AI-powered expense tracking and financial coaching app, developed during a DRDO internship.
+- 📱 Building cross-platform mobile apps using React Native
+- ⚡ Learning Supabase
+- 🌱 Exploring Backend Development with Node.js & MongoDB
+- 🚀 Building projects to strengthen my software development portfolio
 
-<br>
+---
 
-## 🏅 Achievements
+# Achievements
 
-- 🥈 Patent Accepted — **SafeOpen**
-- 🏆 National Finalist — **Hack Vriksh Hackathon 2025**
-- 📜 IBM SkillsBuild — Python 101 for Data Science
+🏅 National Finalist — Hack Vriksh Hackathon 2025
 
-<br>
+📜 IBM SkillsBuild — Python 101 for Data Science
 
-## 📊 GitHub Stats
+🚗 Patent Accepted — SafeOpen
 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushish18&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushish18&theme=tokyonight&hide_border=true" />
-</div>
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushish18&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+# Connect With Me
 
-<br>
+💼 LinkedIn: https://www.linkedin.com/in/khushish18/
 
-## 🤝 Looking to Collaborate On
+💻 GitHub: https://github.com/khushish18
 
-- 📱 React Native projects
-- 🌐 Open source software
-- 🚀 Mobile app development
-- 🤖 Beginner-friendly AI + software projects
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/khushish18"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/khushish18"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:khushisharma061205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<div align="center">
-
-### ✨ *Code with curiosity. Build with purpose.*
-
-</div>
+📫 Email: khushisharma061205@gmail.com
