@@ -25,6 +25,9 @@ Python • C/C++
 ## AI/ML Foundation
 Machine Learning Fundamentals • Pandas • NumPy • Scikit-learn
 
+## Core CS
+Data Structures & Algorithms • OOP • DBMS • Operating Systems
+
 ## Tools
 Git • GitHub • VS Code
 
